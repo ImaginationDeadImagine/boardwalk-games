@@ -80,4 +80,11 @@
   font-style: normal;
 }
 
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1 {
+  font-family: 'Macondo', cursive;
+}
 
