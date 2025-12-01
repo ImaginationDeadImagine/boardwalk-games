@@ -97,3 +97,39 @@ Acceptance Criteria
 Tasks
 
 - Integrate the newsletter sign-up form into the website footer.
+
+## User Story 8: Game Library page (must-have)
+
+User Story: As a Customer, I want to see information on four new and four existing games, so I can
+make a selection of one or more featured games from the Library to play.
+
+Acceptance Criteria
+
+- The website contains a selection of four new and four existing games and one can select one or more  of these games to reserve from the library.
+- The Library page records the Customer and their selection of games to reserve.
+- Games are reserved for the Customer for up to 7 days and are then returned to the Library.
+- The reservation booking form footer contains the standard Business contact information.
+
+Tasks
+
+- Identify a method for selecting featured games each week.
+- Place selected featured games on the Library booking page.
+- Allow selection of one or more featured games by a customer up to a maximum of three games.
+- At the end of the week, return all selected games back to the Library and start a new selection cycle.
+
+## User Story 9: List of players booked in on a given day (should-have)
+
+User Story: As a Customer, I want to reserve a given game on a particular day, using a booking form.
+
+Acceptance Criteria
+
+- The website contains a Booking page allowing one to select a given game on a given day.
+- The Bookings page only allows a booking to be made for the coming four weeks.
+- The Bookings page has a footer containing the standard contact details for the business.
+- The Business T's and C's contain the relevant references to Data Protection regulations.
+
+Tasks
+
+- Create a Booking page in which a Customer can reserve a given game on a given day.
+- Limit the Booking to any game in the Library on a given day up to one week hence.
+- Include the standard business contact details in the form footer.
