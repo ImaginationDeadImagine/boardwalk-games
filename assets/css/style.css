@@ -1,0 +1,30 @@
+/* Google Fonts import - Macondo and Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Macondo:wght@400;700&display=swap');
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+h1 {
+    font-family: "Macondo", cursive;
+}
+
+
+
+/* 
+.macondo-regular {
+  font-family: "Macondo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.macondo-bold {
+  font-family: "Macondo", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.inter-regular {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} */
